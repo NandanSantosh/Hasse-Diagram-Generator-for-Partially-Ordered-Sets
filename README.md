@@ -5,7 +5,7 @@
 
 • **Strict Order-Theory Mapping:** Developed a linear-time sub-vector validation mechanism (is_subset) to strictly isolate and map cover relations, ensuring edges are exclusively drawn between elements where $k \rightarrow k-1$.
 
-•** Exponential Combinatorial Scaling:** Designed to efficiently construct a complete Boolean lattice graph containing exactly $2^n$ nodes for a base set of size $n$.
+• **Exponential Combinatorial Scaling**: Designed to efficiently construct a complete Boolean lattice graph containing exactly $2^n$ nodes for a base set of size $n$.
 
 • **Rigorous Cover Relation Processing:** The edge connection phase operates at an algorithmic bound of $O(\sqrt{n} \cdot 4^n)$ to thoroughly compare localized layer interfaces ($\binom{n}{k} \times \binom{n}{k-1}$).
 
